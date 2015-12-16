@@ -1,0 +1,2 @@
+gmx.net http://www.gmx.net 200
+yahoo.de http://www.yahoo.de 200

@@ -1,0 +1,6 @@
+*.pyc
+.noseids
+.idea/
+.coverage
+coverage/
+
